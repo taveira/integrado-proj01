@@ -1,4 +1,4 @@
 integrado-proj01
 ================
 
-Inegrado Projeto01
+Integrado Projeto01
